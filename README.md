@@ -1,2 +1,2 @@
 # MyPackage
-same r package
+sample r package
